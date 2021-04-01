@@ -1,0 +1,27 @@
+
+.header{
+background-color: rgb(6, 6, 65);
+
+justify-content:space-evenly; 
+}
+h1{
+color:ivory;
+}
+a{
+color:ivory
+
+}
+.menu{
+    display:flex;
+    justify-content:space-between; 
+    border:solid;
+    border-top-color: aquamarine;
+    border-bottom-color:blanchedalmond;
+    border-left-color:coral;
+    border-right-color:crimson;
+    padding: 20px;
+   background-color: rgb(159, 211, 231);
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    }
